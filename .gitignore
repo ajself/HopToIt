@@ -1,0 +1,12 @@
+# Xcode
+*.xcuserstate
+*.xcuserdata/
+*.xcuserdatad/
+DerivedData/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
