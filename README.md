@@ -5,7 +5,14 @@ A small Swift Playground on actors: what they are, how they behave, and where th
 ## How to use
 - Open `Hop To It.playground` in Xcode.
 - Use the page navigator on the left to choose a topic.
+- Editor > Show Rendered Markup for the business casual level experience of markdown rendering 👔.
+- Editor > Show Raw Markup for plain 'ol markdown in it's purest form... plain text 👕.
 - Run a page and watch the console output.
+
+<details>
+  <summary>Try it, you might like it.</summary>
+  <img width="200" height="916" alt="Give-it-a-whirl" src="https://github.com/user-attachments/assets/bc03a04f-caeb-4aea-b453-74aaf2b9932a" />
+</details>
 
 ## Contents
 1. Actors Overview
